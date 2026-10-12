@@ -119,7 +119,7 @@ fraud-investigation-skills/
 
 ## About Finic
 
-[Finic](https://finic.ai) builds AI agents for fraud and compliance teams.
+[Finic](https://finic.ai) builds AI to stop fraud, abuse and financial crimes: [Finic Grayson](https://docs.finic.ai), a decision model API for real-time fraud and risk decisions, and agents for fraud investigations. Read the [Grayson announcement](https://finic.ai/blog/introducing-grayson).
 
 ## License
 
